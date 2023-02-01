@@ -7,3 +7,4 @@ z+=1;
 //hello
 x=5;
 console.log(x)
+console.log("hi")
